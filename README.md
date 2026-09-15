@@ -1,7 +1,7 @@
 ## Hi, I'm Taewoo 👋
 Frontend Developer who enjoys building clear and intuitive user experiences.
 
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:yello.3617@gmail.com)
+[![yello.3617@gmail.com](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:yello.3617@gmail.com)
 
 ---
 
