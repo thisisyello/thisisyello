@@ -1,10 +1,9 @@
 ## Hi, I'm Taewoo 👋
-
 Frontend Developer who enjoys building clear and intuitive user experiences.
-@thisisyello
-
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:yello.3617@gmail.com)
 [![Blog](https://img.shields.io/badge/Blog-000000?style=flat&logo=githubpages&logoColor=white)](https://thisisyello.github.io/blog/)
+
+---
 
 ### Tech Stack
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
@@ -19,3 +18,5 @@ Frontend Developer who enjoys building clear and intuitive user experiences.
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
+
+---
