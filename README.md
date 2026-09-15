@@ -2,7 +2,6 @@
 Frontend Developer who enjoys building clear and intuitive user experiences.
 
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:yello.3617@gmail.com)
-[![Blog](https://img.shields.io/badge/Blog-000000?style=flat&logo=githubpages&logoColor=white)](https://thisisyello.github.io/blog/)
 
 ---
 
